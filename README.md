@@ -1,5 +1,5 @@
 # PowerBI-Sales-Dashboard
-# 📊 Dashboard Power BI – Suivi des ventes et commandes annulées
+📊 Dashboard Power BI – Suivi des ventes et commandes annulées
 
 ## 📌 Présentation
 
@@ -75,3 +75,28 @@ Le dashboard permet d'obtenir rapidement une vision globale du chiffre d'affaire
 ```DAX
 Total ventes =
 SUM(ventes[Prix total])
+🛠️ Technologies utilisées
+Microsoft Power BI
+Power Query
+DAX
+Data Modeling
+Data Visualization
+Microsoft Excel / CSV
+
+Compétences mises en pratique
+Nettoyage de données
+Transformation de données
+Modélisation de données
+Création de KPI
+Création de mesures DAX
+Analyse commerciale
+Data Visualisation
+Business Intelligence
+Reporting
+Conception de dashboards interactifs
+
+👨🏾‍💻 Auteur
+
+Aubrey Geldof MBOLO TSIOMO
+
+Data Analyst | Business Intelligence | Ingénieur Informatique | Développeur Full Stack
