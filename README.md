@@ -27,8 +27,6 @@ Le dashboard permet d'obtenir rapidement une vision globale du chiffre d'affaire
 
 ## 📊 Dashboard – Suivi des ventes
 
-![Suivi des ventes](images/suivi_ventes.png)
-
 ### KPI principaux
 
 - Chiffre d'affaires total
@@ -50,8 +48,6 @@ Le dashboard permet d'obtenir rapidement une vision globale du chiffre d'affaire
 ---
 
 ## ❌ Dashboard – Commandes annulées
-
-![Commandes annulées](images/ventes_annulees.png)
 
 ### KPI principaux
 
